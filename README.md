@@ -14,6 +14,6 @@ A command-line tool that makes math readable using unicode symbols.
 
 ```
                 ₈
- ∃ x ∊ ℝ / x =  Σ 2 πν
+ ∃ x ∊ ℝ / x = Σ 2 πν
                ⁿ⁼⁰
 ```
